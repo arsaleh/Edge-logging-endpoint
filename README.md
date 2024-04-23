@@ -17,7 +17,7 @@ Before you run the server, make sure you have Python installed on your system. T
 
 ```bash
 git clone https://github.com/arsaleh/Edge-logging-endpoint.git
-cd simple-http-post-logger
+cd Edge-logging-endpoint
 ```
 
 ### Install Dependencies
